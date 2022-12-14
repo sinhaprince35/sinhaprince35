@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince-sinha-a6849831" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="prince-sinha-a6849831" height="60" width="60" /></a>
-<a href="https://fb.com/sinhaprince35" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="sinhaprince35" height="60" width="60" /></a>
-<a href="https://instagram.com/sinha38" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sinha38" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/prince-sinha-a6849831" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="prince-sinha-a6849831" height="40" width="40" /></a>
+<a href="https://fb.com/sinhaprince35" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="sinhaprince35" height="40" width="40" /></a>
+<a href="https://instagram.com/sinha38" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sinha38" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
