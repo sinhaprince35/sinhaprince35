@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm <style="--name: jump;
+<h1 align="center">Hi 👋, I'm <style="
     --dur: 800ms;
     --del: calc(var(--char-index) * 0.100s);
-    --tf: cubic-bezier(0.165, 0.44, 0.64, 1);">Prince Kumar</style></h1>
+    --tf: cubic-bezier(0.165, 0.44, 0.64, 1);">Prince Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/112944356/196230745-b327fcfe-c843-4892-83db-71522007f408.gif">
 <!-- <img align="left" alt="coding" width="200" src="https://camo.githubusercontent.com/db0a55a9e897894470b2e1b8a934da5c32545cdce892ebb9424a4a6b1ef64267/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966"> -->
