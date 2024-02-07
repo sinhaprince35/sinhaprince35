@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=0014B8&background=FFFFFF00&random=false&width=435&lines=Hello%2C+There!++%F0%9F%91%8B;This+is+PRINCE+KUMAR....;MERN+Developer+%7C%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you!!!" alt="Typing SVG" /></a><br>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=0014B8&background=FFFFFF00&random=false&width=435&lines=Hello%2C+There!++%F0%9F%91%8B;This+is+PRINCE+KUMAR....;MERN+Developer+%7C%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you!!!" alt="Typing SVG" /></a></p><br>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/112944356/196230745-b327fcfe-c843-4892-83db-71522007f408.gif">
 <!-- <img align="left" alt="coding" width="200" src="https://camo.githubusercontent.com/db0a55a9e897894470b2e1b8a934da5c32545cdce892ebb9424a4a6b1ef64267/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966"> -->
 
