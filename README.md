@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sinhaprince35@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prince-sinha-a6849831" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="prince-sinha-a6849831" height="40" width="40" /></a>
 <a href="https://fb.com/sinhaprince35" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="sinhaprince35" height="40" width="40" /></a>
