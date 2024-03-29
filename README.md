@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developer.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, Java.**
 
 - 📫 How to reach me **sinhaprince35@gmail.com**
 
